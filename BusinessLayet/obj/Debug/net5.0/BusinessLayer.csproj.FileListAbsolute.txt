@@ -1,0 +1,17 @@
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\BusinessLayer.dll
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\ref\BusinessLayer.dll
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\BusinessLayer.pdb
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\EntityLayer.dll
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Projects\DemoCore\BusinessLayet\bin\Debug\net5.0\EntityLayer.pdb
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.dll
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\ref\BusinessLayer.dll
+D:\Projects\DemoCore\BusinessLayet\obj\Debug\net5.0\BusinessLayer.pdb

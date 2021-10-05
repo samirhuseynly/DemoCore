@@ -14,6 +14,6 @@ namespace EntityLayer.Concrete
         public string AboutImage1 { get; set; }
         public string AboutImage2 { get; set; }
         public string AboutMapLocation { get; set; }
-        public string AboutStatus { get; set; }
+        public bool AboutStatus { get; set; }
     }
 }

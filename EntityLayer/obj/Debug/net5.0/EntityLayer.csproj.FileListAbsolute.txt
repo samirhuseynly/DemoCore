@@ -1,0 +1,12 @@
+D:\Projects\DemoCore\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\Projects\DemoCore\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\Projects\DemoCore\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+D:\Projects\DemoCore\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+D:\Projects\DemoCore\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
