@@ -16,9 +16,10 @@ namespace CoreDemo.Controllers
             var values = blogManager.GetBlogListWithCategory();
             return View(values);
         }
-        public IActionResult BlogDetails()
+        public IActionResult BlogReadAll(int id)
         {
-            return View();
+            var values = blogManager.GetBlogByID(id);
+            return View(values);
         }
     }
 }
