@@ -23,9 +23,9 @@ namespace BusinessLayer.Concrete
             throw new NotImplementedException();
         }
 
-        public List<Comment> GetList()
+        public List<Comment> GetList(int id)
         {
-            throw new NotImplementedException();
+            return _commentDal.GetListAll(x => x.BlogID == id);
         }
     }
 }
