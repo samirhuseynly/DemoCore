@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace CoreDemo.Controllers
 {
-    [
+    
     public class RegisterController : Controller
     {
         WriterManager writerManager = new WriterManager(new EfWriterRepository());
