@@ -20,7 +20,7 @@ namespace CoreDemo.Controllers
         [HttpPost]
         public IActionResult Index(Contact p)
         {
-            p.ContactDate = DateTime.Parse(DateTime.Now.ToShortDateString());
+            p.ContactDate = DateTime.Parse(DateTime.Now.ToShortTimeString());
             p.ContactStatus = true;
             contactManager.ContactAdd(p);
             return RedirectToAction("Index", "Blog");
