@@ -13,7 +13,7 @@ namespace CoreDemo.ViewComponents.Writer
         WriterManager writerManager = new WriterManager(new EfWriterRepository());
         public IViewComponentResult Invoke()
         {
-            var values = writerManager.GetWriterById(1);
+            var values = writerManager.GetWriterById(6);
             return View(values);
         }
     }
